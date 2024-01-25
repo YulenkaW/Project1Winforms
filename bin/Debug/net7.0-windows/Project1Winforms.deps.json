@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Project1Winforms/1.0.0": {
+        "runtime": {
+          "Project1Winforms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project1Winforms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
